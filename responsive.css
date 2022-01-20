@@ -1,0 +1,77 @@
+@media only screen and (max-width: 768px){
+    .header-menu {
+        width: 48rem;
+    }
+
+    .container {
+        width: 48rem;
+    }
+
+    .first-section {
+        width: 42rem;
+        margin: 2rem 1rem;
+    }
+
+    .first-section__text {
+        width: 16rem;
+    }
+
+    .first-section__text h1 {
+        font-size: 2rem;
+        line-height: 1.2;
+    }
+
+    .first-section__text p {
+        font-size: 1rem;
+        line-height: 1.2;
+    }
+
+    .first-section__button {
+        width: 8rem;
+        height: 3rem;
+        line-height: 3rem;
+        margin-top: 1rem;
+    }
+
+    .first-section__image img{
+        width: 100%;
+    }
+
+    .second-section__container {
+        width: 48rem;
+    }
+
+    .second-section__image img{
+        width: 80%;
+    }
+
+    .second-section__text h2 {
+        font-size: 1.7rem;
+        width: 70%;
+    }
+      
+      .second-section__text p {
+        width: 70%;
+        font-size: 1rem;
+    }
+
+      .third-section {
+        width: 45rem;
+    }
+
+    .section-cards {
+        width: 42rem;
+        justify-content: flex-start;
+        margin-left: 0;
+    }
+
+    .section-card {
+        width: 27%;
+    }
+
+    .contact-section {
+        width: 45rem;
+        margin-left: 1rem;
+        margin-top: 5rem;
+    }
+}
